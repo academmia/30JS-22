@@ -1,1 +1,1 @@
-# 30JS-22
+# 230. Copierea obiectelor in JavaScript
