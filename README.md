@@ -1,1 +1,1 @@
-# 30JS-22
+# 60. Functii constructor si prototype
