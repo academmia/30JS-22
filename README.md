@@ -1,1 +1,1 @@
-# 30JS-22
+# 20. Tipuri de date - primitive / referinta
