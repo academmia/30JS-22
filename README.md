@@ -1,1 +1,1 @@
-# 30JS-22
+# 250. TypeScript
