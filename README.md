@@ -1,1 +1,1 @@
-# 30JS-22
+# 110. ECMAScript2015/ES6+ vs ES5
