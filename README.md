@@ -1,1 +1,1 @@
-# 30JS-22
+# 150. Noi functii in ES6
